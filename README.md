@@ -1,4 +1,4 @@
-# Creating Eletronic Music
+# Creating Eletronic Chinese Music
 This is a creative exercise by using garage band to create a music in chinese as gift to a group of child from a volunteer work in Paraguai-Ciudad del Este
 
 Brief Description of the motivation of this project: 
